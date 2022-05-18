@@ -7,3 +7,4 @@ console.log(
     }
   })
 );
+console.log(arr);
