@@ -3,7 +3,7 @@ const arr = ["najib", "golib", 22, "suhrob"];
 arr.splice(2, 0, "mehroj", "shavkat");
 console.log(arr);
 // udalyaet elementi
-//arr.slice(2, 2);
+arr.splice(2, 1);
 console.log(arr);
 
 var fruits = ["Banana", "Orange", "Apple", "Mango"];
