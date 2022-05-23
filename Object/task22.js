@@ -3,5 +3,5 @@ function Copy(obj = {}) {
   return copy;
 }
 
-let obj = { name: "ali", age: 20 };
+let obj = { name: "Najib", age: 20 };
 console.log(obj);
